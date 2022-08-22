@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 10 Feb 2021 10:18:34 at http://rn53themes.net/themes/demo/directory/admin.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://rn53themes.net/themes/demo/directory/admin.html -O1 "C:\Users\sachin\Desktop\superadmin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/images/f_p.png (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/images/loading.gif (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/images/list-i1.png (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/images/list-i2.png (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/images/list-i3.png (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/images/list-p-bg.jpg (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/images/list-pre-i1.png (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/images/list-pre-i2.png (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/images/pre-ser-i.png (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/images/stars.png (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/images/pre-pro-i.png (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Warning: 	Retry after error -4 (Incorrect length (225682 Bytes, 347924 expected)) at link rn53themes.net/themes/demo/directory/images/list-deta/prop-bg.jpg (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Warning: 	Retry after error -4 (Incorrect length (221663 Bytes, 352706 expected)) at link rn53themes.net/themes/demo/directory/images/list-deta/shop-bg.jpg (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Warning: 	Retry after error -4 (Incorrect length (236239 Bytes, 732649 expected)) at link rn53themes.net/themes/demo/directory/images/preloader.gif (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/images/login.jpg (from rn53themes.net/themes/demo/directory/css/style.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/fonts/glyphicons-halflings-regular.eot (from rn53themes.net/themes/demo/directory/css/bootstrap.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/fonts/glyphicons-halflings-regular.eot? (from rn53themes.net/themes/demo/directory/css/bootstrap.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/fonts/glyphicons-halflings-regular.woff2 (from rn53themes.net/themes/demo/directory/css/bootstrap.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/fonts/glyphicons-halflings-regular.woff (from rn53themes.net/themes/demo/directory/css/bootstrap.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/fonts/glyphicons-halflings-regular.ttf (from rn53themes.net/themes/demo/directory/css/bootstrap.css)
+10:23:22	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/fonts/glyphicons-halflings-regular.svg (from rn53themes.net/themes/demo/directory/css/bootstrap.css)
+10:28:12	Warning: 	Retry after error -4 (Incorrect length (562689 Bytes, 732649 expected)) at link rn53themes.net/themes/demo/directory/images/preloader.gif (from rn53themes.net/themes/demo/directory/css/style.css)
+10:28:15	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/directory/images/cancel.png (from rn53themes.net/themes/demo/directory/register.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 52 seconds : 348 links scanned, 324 files written (14521177 bytes overall) [13235909 bytes received at 22357 bytes/sec], 1894821 bytes transferred using HTTP compression in 99 files, ratio 25%
+(19 errors, 4 warnings, 0 messages)
